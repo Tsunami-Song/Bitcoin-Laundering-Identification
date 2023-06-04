@@ -1,7 +1,7 @@
-## HBTBD
+## Bitcoin-Laundering-Identification 
 
 This repository provides a reference implementation of HBTBD as described in the paper:
-> HBTBD:Heterogenous Bitcoin Transaction Behavior Dataset for Anti-Money Laundering
+> Bitcoin Laundering Identification Method Based on Heterogeneous Graph Metapath Encoder
 
 ### Dependencies
 
